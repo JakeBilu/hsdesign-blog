@@ -2,7 +2,7 @@
 
 > **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-17` (Index updated `2026-11-26`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [RTS Link JB Condo Renovation Guide 2026: Defect Check, Remote Supervision & Budget](https://hsdesign.biz/blog/rts-link-jb-condo-renovation-guide)  
-> **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
+> **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 
 ## Overview
 
@@ -56,4 +56,4 @@ In 2026, Johor Bahru residential condo renovations remain anchored by custom car
 - **Full Canonical Article (EN / ZH / MS)**: [https://hsdesign.biz/blog/rts-link-jb-condo-renovation-guide](https://hsdesign.biz/blog/rts-link-jb-condo-renovation-guide)
 - **Four Engagement Tiers (Design-Only, Site Supervision, Full Turnkey, Bespoke Millwork)**: [HS Design Services & Comparison](https://hsdesign.biz/services.html)
 - **Studio Portfolio & Consultation (Johor Bahru & Singapore Remote Owners)**: [HS Design Official Website](https://hsdesign.biz/)
-- **Verified Credentials**: HEALTH SPACE DESIGN · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · 24-1, Jalan Rosmerah 2/17, Taman Johor Jaya, 81100 Johor Bahru, Johor.
+- **Verified Credentials**: HEALTH SPACE DESIGN · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15 · Valid 26/11/2026–25/11/2028)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · 24-1, Jalan Rosmerah 2/17, Taman Johor Jaya, 81100 Johor Bahru, Johor.
