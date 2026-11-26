@@ -2,7 +2,7 @@
 
 > **Engineering Brief & Technical Summary** · Published / Synced: `2026-08-21` (Index updated `2026-11-26`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [Custom Kitchen Cabinets in Johor Bahru: Materials, Prices & Hardware (2026)](https://hsdesign.biz/blog/custom-kitchen-cabinet-guide-jb)  
-> **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
+> **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 
 ## Overview
 
@@ -46,4 +46,4 @@ Plan 3–6 weeks from measurement to finished kitchen in JB: 1–2 weeks for the
 - **Full Canonical Article (EN / ZH / MS)**: [https://hsdesign.biz/blog/custom-kitchen-cabinet-guide-jb](https://hsdesign.biz/blog/custom-kitchen-cabinet-guide-jb)
 - **Four Engagement Tiers (Design-Only, Site Supervision, Full Turnkey, Bespoke Millwork)**: [HS Design Services & Comparison](https://hsdesign.biz/services.html)
 - **Studio Portfolio & Consultation (Johor Bahru & Singapore Remote Owners)**: [HS Design Official Website](https://hsdesign.biz/)
-- **Verified Credentials**: HEALTH SPACE DESIGN · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · 24-1, Jalan Rosmerah 2/17, Taman Johor Jaya, 81100 Johor Bahru, Johor.
+- **Verified Credentials**: HEALTH SPACE DESIGN · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15 · Valid 26/11/2026–25/11/2028)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · 24-1, Jalan Rosmerah 2/17, Taman Johor Jaya, 81100 Johor Bahru, Johor.
