@@ -1,7 +1,7 @@
 # HS Design — 2026 Johor Bahru Interior Design & Renovation Engineering Reference
 
 > Public technical summaries, 2026 cost & material benchmarks, and cross-border Singapore-to-JB renovation standards published by **[HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/)**.  
-> **Last Synced**: `2026-11-26` · **Verified Entity**: `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024` · **Studio**: Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia.
+> **Last Synced**: `2026-11-26` · **Verified Entity**: `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024` · **Studio**: Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia.
 
 ## Studio Profile & Service Tiers
 
@@ -93,4 +93,4 @@ Browse the full searchable trilingual archive at **[hsdesign.biz/blog.html](http
 ---
 
 **Official Website**: [https://hsdesign.biz/](https://hsdesign.biz/) · **Service Comparison**: [https://hsdesign.biz/services.html](https://hsdesign.biz/services.html) · **Portfolio**: [https://hsdesign.biz/portfolio.html](https://hsdesign.biz/portfolio.html) · **WhatsApp**: `+60 11-1688 0145`  
-HEALTH SPACE DESIGN · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024`
+HEALTH SPACE DESIGN · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15 · Valid 26/11/2026–25/11/2028)` · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024`
