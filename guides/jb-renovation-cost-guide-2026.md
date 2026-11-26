@@ -2,7 +2,7 @@
 
 > **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-17` (Index updated `2026-11-26`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [JB Renovation Cost Guide 2026: Real Prices After the Increase](https://hsdesign.biz/blog/jb-renovation-cost-guide-2026)  
-> **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
+> **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 
 ## Overview
 
@@ -19,7 +19,7 @@ DOSM's Building Cost Index for August 2026 puts Ordinary Portland cement at RM25
 Construction work services became taxable services on 1 July 2025, charged at 6% under the Service Tax (Tax Rate) (Amendment) Order 2025. Two conditions decide whether it touches your home: the provider's registration threshold is more than RM1,500,000 of...
 
 ### 3. The labour floor under every quote
-Every 2026 quotation rests on wages that cannot be imaginary. The minimum wage is RM1,700 a month with full coverage since August 2025, which works out to RM8.72 an hour. Malaysian construction industry's published wage table — the newest national trade...
+Every 2026 quotation rests on wages that cannot be imaginary. The minimum wage is RM1,700 a month with full coverage since August 2025, which works out to RM8.72 an hour. CIDB Malaysia's published wage table — the newest national trade table available —...
 
 ### 4. Where the ringgit goes — and the units that make it comparable
 The allocation on this site has not changed because the prices did: carpentry and cabinetry 30–35%, wet works and tiling 15–20%, electrical and plumbing 15%, painting and finishing 10%, fixtures 10%, contingency 10–15%, as set out in the budget breakdown....
@@ -58,4 +58,4 @@ Three additions turn the allocation into a budget that survives 2026 prices. Fir
 - **Full Canonical Article (EN / ZH / MS)**: [https://hsdesign.biz/blog/jb-renovation-cost-guide-2026](https://hsdesign.biz/blog/jb-renovation-cost-guide-2026)
 - **Four Engagement Tiers (Design-Only, Site Supervision, Full Turnkey, Bespoke Millwork)**: [HS Design Services & Comparison](https://hsdesign.biz/services.html)
 - **Studio Portfolio & Consultation (Johor Bahru & Singapore Remote Owners)**: [HS Design Official Website](https://hsdesign.biz/)
-- **Verified Credentials**: HEALTH SPACE DESIGN · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · 24-1, Jalan Rosmerah 2/17, Taman Johor Jaya, 81100 Johor Bahru, Johor.
+- **Verified Credentials**: HEALTH SPACE DESIGN · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15 · Valid 26/11/2026–25/11/2028)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · 24-1, Jalan Rosmerah 2/17, Taman Johor Jaya, 81100 Johor Bahru, Johor.
