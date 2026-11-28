@@ -1,7 +1,7 @@
 # HS Design — 2026 Johor Bahru Interior Design & Renovation Engineering Reference
 
 > Public technical summaries, 2026 cost & material benchmarks, and cross-border Singapore-to-JB renovation standards published by **[HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/)**.  
-> **Last Synced**: `2026-11-26` · **Verified Entity**: `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024` · **Studio**: Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia.
+> **Last Synced**: `2026-11-28` · **Verified Entity**: `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024` · **Studio**: Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia.
 
 ## Studio Profile & Service Tiers
 
@@ -14,10 +14,11 @@ HS Design serves residential landed homes, RTS Link corridor condominiums, and c
 | **03. Full Turnkey Renovation** | Single-contract design, sourcing, trade management & milestone handover | [Compare Tiers](https://hsdesign.biz/services.html) |
 | **04. Bespoke Millwork & Styling** | 18mm E0/ENF moisture-resistant plywood, aluminium wet kitchens & lighting | [Compare Tiers](https://hsdesign.biz/services.html) |
 
-## 2026 Flagship Engineering Summaries (`guides/` — 14 Briefs)
+## 2026 Flagship Engineering Summaries (`guides/` — 15 Briefs)
 
 | Date | Engineering Brief (GitHub) | Canonical Trilingual Guide (`hsdesign.biz`) |
 | :--- | :--- | :--- |
+| `2026-11-28` | [Hidden Door & Fluted Feature Wall Design in Johor Bahru (2026 Guide)](guides/hidden-door-feature-wall-ideas.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/hidden-door-feature-wall-ideas) |
 | `2026-11-25` | [2026 Johor Bahru Bathroom Renovation Cost & Engineering Guide: Hacking, Waterproofing, Fall Slope & Timeline](guides/bathroom-renovation-cost-jb-2026.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/bathroom-renovation-cost-jb-2026) |
 | `2026-11-22` | [Sintered Stone vs Quartz in Malaysia (2026): Heat, Stain, Cracking & JB Price Guide](guides/sintered-stone-vs-quartz-malaysia.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/sintered-stone-vs-quartz-malaysia) |
 | `2026-11-19` | [Wet and Dry Kitchen Layout Guide in Johor Bahru (2026): Wok Exhaust, Island Sizing & Aluminum vs Plywood](guides/wet-and-dry-kitchen-layout-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/wet-and-dry-kitchen-layout-jb) |
@@ -33,10 +34,11 @@ HS Design serves residential landed homes, RTS Link corridor condominiums, and c
 | `2026-08-01` | [What Can You Demolish in a JB Renovation?](guides/what-can-you-demolish-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/what-can-you-demolish-jb) |
 | `2026-08-01` | [Remote Control Renovation in JB: Why a One-Stop Interior Designer Wins](guides/one-stop-remote-renovation-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/one-stop-remote-renovation-jb) |
 
-## Complete Canonical Knowledge Base (52 Live Articles on `hsdesign.biz`)
+## Complete Canonical Knowledge Base (53 Live Articles on `hsdesign.biz`)
 
 Browse the full searchable trilingual archive at **[hsdesign.biz/blog.html](https://hsdesign.biz/blog.html)** or consume the structured LLM index at **[hsdesign.biz/llms.txt](https://hsdesign.biz/llms.txt)** and **[hsdesign.biz/llms-full.txt](https://hsdesign.biz/llms-full.txt)**:
 
+- [Hidden Door & Fluted Feature Wall Design in Johor Bahru (2026 Guide)](https://hsdesign.biz/blog/hidden-door-feature-wall-ideas) (`2026-11-28`) — 2026 Johor Bahru engineering guide for hidden doors and fluted feature walls: concealed 3D hinges, hydraulic closers, bathroom...
 - [2026 Johor Bahru Bathroom Renovation Cost & Engineering Guide: Hacking, Waterproofing, Fall Slope & Timeline](https://hsdesign.biz/blog/bathroom-renovation-cost-jb-2026) (`2026-11-25`) — Complete 2026 Johor Bahru bathroom renovation guide: full hacking vs tile-over, waterproofing height and 48-hour ponding test...
 - [Sintered Stone vs Quartz in Malaysia (2026): Heat, Stain, Cracking & JB Price Guide](https://hsdesign.biz/blog/sintered-stone-vs-quartz-malaysia) (`2026-11-22`) — In-depth 2026 Johor Bahru comparison of sintered stone vs quartz for kitchen countertops and TV feature walls: scorch resistance...
 - [Wet and Dry Kitchen Layout Guide in Johor Bahru (2026): Wok Exhaust, Island Sizing & Aluminum vs Plywood](https://hsdesign.biz/blog/wet-and-dry-kitchen-layout-jb) (`2026-11-19`) — Practical 2026 wet and dry kitchen layout guide for Johor Bahru homes: Chinese wok high-CFM exhaust ducting, island and walkway...
