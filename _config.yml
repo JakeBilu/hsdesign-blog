@@ -1,0 +1,32 @@
+title: "Health Space Interior — Johor Bahru Renovation & Engineering Guides"
+description: "Public 2026 Johor Bahru interior design, M&E engineering specifications, cost benchmarks, and renovation compliance briefs by HS Design (CIDB Grade G2)."
+url: "https://jakebilu.github.io"
+baseurl: "/hsdesign-blog"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+optional_front_matter:
+  remove_originals: true
+readme_index:
+  enabled: true
+  remove_originals: true
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+exclude:
+  - archetypes
+  - content
+  - static
+  - themes
+  - hugo.yaml
+  - .gitmodules
+  - .github

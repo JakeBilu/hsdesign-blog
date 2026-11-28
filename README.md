@@ -1,7 +1,7 @@
 # HS Design — 2026 Johor Bahru Interior Design & Renovation Engineering Reference
 
 > Public technical summaries, 2026 cost & material benchmarks, and cross-border Singapore-to-JB renovation standards published by **[HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/)**.  
-> **Last Synced**: `2026-11-28` · **Verified Entity**: `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024` · **Studio**: Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia.
+> **Crawlable Web Edition**: [https://jakebilu.github.io/hsdesign-blog/](https://jakebilu.github.io/hsdesign-blog/) · **Last Synced**: `2026-11-28` · **Verified Entity**: `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · `SSM 202603001610 (PG0581660-U)` · `JIDA Member 2024` · **Studio**: Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia.
 
 ## Studio Profile & Service Tiers
 
@@ -14,9 +14,9 @@ HS Design serves residential landed homes, RTS Link corridor condominiums, and c
 | **03. Full Turnkey Renovation** | Single-contract design, sourcing, trade management & milestone handover | [Compare Tiers](https://hsdesign.biz/services.html) |
 | **04. Bespoke Millwork & Styling** | 18mm E0/ENF moisture-resistant plywood, aluminium wet kitchens & lighting | [Compare Tiers](https://hsdesign.biz/services.html) |
 
-## 2026 Flagship Engineering Summaries (`guides/` — 15 Briefs)
+## 2026 Johor Bahru Renovation & Engineering Guides (`guides/` — 53 Briefs)
 
-| Date | Engineering Brief (GitHub) | Canonical Trilingual Guide (`hsdesign.biz`) |
+| Date | Engineering Brief (GitHub Pages) | Canonical Trilingual Guide (`hsdesign.biz`) |
 | :--- | :--- | :--- |
 | `2026-11-28` | [Hidden Door & Fluted Feature Wall Design in Johor Bahru (2026 Guide)](guides/hidden-door-feature-wall-ideas.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/hidden-door-feature-wall-ideas) |
 | `2026-11-25` | [2026 Johor Bahru Bathroom Renovation Cost & Engineering Guide: Hacking, Waterproofing, Fall Slope & Timeline](guides/bathroom-renovation-cost-jb-2026.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/bathroom-renovation-cost-jb-2026) |
@@ -28,11 +28,49 @@ HS Design serves residential landed homes, RTS Link corridor condominiums, and c
 | `2026-10-26` | [How to Choose Paint Colours for a Johor Bahru Home](guides/paint-colour-selection-guide.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/paint-colour-selection-guide) |
 | `2026-10-23` | [Balcony and Terrace Renovation in Johor Bahru: Plan Drainage, Safety and Usable Space](guides/balcony-terrace-renovation.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/balcony-terrace-renovation) |
 | `2026-10-21` | [Renovate or Move in Johor Bahru? Compare the Whole Cost Before Deciding](guides/renovate-or-move-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/renovate-or-move-jb) |
+| `2026-10-11` | [Walk-in Wardrobe Design in Johor Bahru: Measure the Aisle Before the Cabinets](guides/walk-in-wardrobe-design.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/walk-in-wardrobe-design) |
+| `2026-09-28` | [Energy-Saving Renovation in Johor Bahru: 2026 Heat, Daylight & Solar](guides/energy-saving-renovation-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/energy-saving-renovation-jb) |
+| `2026-09-27` | [Staircase Renovation Ideas in Johor Bahru: 2026 Costs, Railings & Storage](guides/staircase-renovation-ideas.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/staircase-renovation-ideas) |
+| `2026-09-25` | [Airbnb & Homestay Renovation in Johor Bahru: 2026 Guest-Ready Fit-Out](guides/airbnb-homestay-renovation-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/airbnb-homestay-renovation-jb) |
+| `2026-09-22` | [Kids Room Design in Johor Bahru: 2026 Safety, Grow-With-Them Layout & Storage](guides/kids-room-design-guide.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/kids-room-design-guide) |
+| `2026-09-19` | [Kitchen Countertop Materials in Johor Bahru: 2026 Quartz vs Granite vs Solid Surface](guides/kitchen-countertop-material-guide.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/kitchen-countertop-material-guide) |
+| `2026-09-16` | [Interior Lighting Design in Johor Bahru: 2026 No-Main-Light, Ambient Layers & Colour Temperature](guides/interior-lighting-design-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/interior-lighting-design-jb) |
 | `2026-09-13` | [Renovation Contract Checklist Johor Bahru: 2026 Deposit, Clauses & Payment Milestones](guides/renovation-contract-checklist.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/renovation-contract-checklist) |
+| `2026-09-10` | [Plaster Ceiling Design in Johor Bahru: 2026 Ideas, Lighting Troughs & Costs](guides/plaster-ceiling-design-ideas.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/plaster-ceiling-design-ideas) |
+| `2026-09-08` | [Rewiring an Old House in Johor Bahru: 2026 Cost, Safety & Sequence](guides/rewiring-old-house-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/rewiring-old-house-jb) |
+| `2026-08-24` | [House Extension in Johor Bahru: 2026 Costs, Permits & Process](guides/house-extension-johor-guide.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/house-extension-johor-guide) |
 | `2026-08-21` | [Custom Kitchen Cabinets in Johor Bahru: Materials, Prices & Hardware (2026)](guides/custom-kitchen-cabinet-guide-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/custom-kitchen-cabinet-guide-jb) |
 | `2026-08-18` | [Waterproofing & Leak Repair in Johor Bahru](guides/waterproofing-and-leak-repair-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/waterproofing-and-leak-repair-jb) |
+| `2026-08-01` | [What is Turnkey Interior Design?](guides/what-is-turnkey-interior-design.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/what-is-turnkey-interior-design) |
+| `2026-08-01` | [What is Health Space Design?](guides/what-is-health-space-design.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/what-is-health-space-design) |
 | `2026-08-01` | [What Can You Demolish in a JB Renovation?](guides/what-can-you-demolish-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/what-can-you-demolish-jb) |
+| `2026-08-01` | [Wet vs Dry Kitchen Design in JB](guides/wet-and-dry-kitchen-design-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/wet-and-dry-kitchen-design-jb) |
+| `2026-08-01` | [Top 5 Defect Checks Before Renovation](guides/top-5-defect-checks-before-renovation.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/top-5-defect-checks-before-renovation) |
+| `2026-08-01` | [Tiles vs Wood Flooring in JB: Which to Choose?](guides/tiles-vs-wood-flooring-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/tiles-vs-wood-flooring-jb) |
+| `2026-08-01` | [Supervising Your JB Renovation from Singapore](guides/supervise-jb-renovation-from-singapore.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/supervise-jb-renovation-from-singapore) |
+| `2026-08-01` | [Space-Saving Tips for JB Condos](guides/space-saving-tips-for-jb-condos.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/space-saving-tips-for-jb-condos) |
+| `2026-08-01` | [Small Space Condo Renovation in Johor Bahru: Smart Ideas](guides/small-space-condo-renovation-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/small-space-condo-renovation-jb) |
+| `2026-08-01` | [Why Singaporeans Hire JB Interior Designers](guides/singaporeans-hiring-jb-designers.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/singaporeans-hiring-jb-designers) |
+| `2026-08-01` | [JB Renovation Budget: Where Your Money Goes](guides/renovation-budget-breakdown-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/renovation-budget-breakdown-jb) |
+| `2026-08-01` | [Renovating a 20-Year House in Johor Jaya](guides/renovating-20-year-old-house-johor-jaya.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/renovating-20-year-old-house-johor-jaya) |
+| `2026-08-01` | [10 Questions to Ask Your JB Interior Designer](guides/questions-to-ask-interior-designer-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/questions-to-ask-interior-designer-jb) |
+| `2026-08-01` | [Pre-Renovation Checklist for Johor Bahru](guides/pre-renovation-checklist-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/pre-renovation-checklist-jb) |
+| `2026-08-01` | [Pet-Friendly Interior Design Tips](guides/pet-friendly-interior-design-tips.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/pet-friendly-interior-design-tips) |
+| `2026-08-01` | [Perfect Home Office Design](guides/perfect-home-office-design.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/perfect-home-office-design) |
 | `2026-08-01` | [Remote Control Renovation in JB: Why a One-Stop Interior Designer Wins](guides/one-stop-remote-renovation-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/one-stop-remote-renovation-jb) |
+| `2026-08-01` | [Is a Kitchen Island Worth It in JB? Cost Guide](guides/kitchen-island-worth-it-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/kitchen-island-worth-it-jb) |
+| `2026-08-01` | [JB Renovation Timeline: How Long Does It Take?](guides/jb-renovation-timeline-guide.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/jb-renovation-timeline-guide) |
+| `2026-08-01` | [The 2026 JB Renovation Guide](guides/jb-renovation-guide-2026.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/jb-renovation-guide-2026) |
+| `2026-08-01` | [JB Renovation Cost Per Square Foot 2026](guides/jb-renovation-cost-per-square-foot.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/jb-renovation-cost-per-square-foot) |
+| `2026-08-01` | [JB Condo Bathroom Renovation Guide](guides/jb-condo-bathroom-renovation.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/jb-condo-bathroom-renovation) |
+| `2026-08-01` | [Hotel-Style Master Bedroom Design](guides/hotel-style-master-bedroom-design.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/hotel-style-master-bedroom-design) |
+| `2026-08-01` | [Health Space Design Principles Explained](guides/health-space-design-principles.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/health-space-design-principles) |
+| `2026-08-01` | [Eco-Friendly Materials Guide in JB](guides/guide-to-eco-friendly-materials-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/guide-to-eco-friendly-materials-jb) |
+| `2026-08-01` | [MBJB/MBIP Permits for Renovation](guides/do-you-need-mbjb-mbip-permits.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/do-you-need-mbjb-mbip-permits) |
+| `2026-08-01` | [Condo Renovation Cost in JB](guides/condo-renovation-cost-jb.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/condo-renovation-cost-jb) |
+| `2026-08-01` | [Skudai Terrace House Renovation Budget](guides/budgeting-skudai-terrace-house.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/budgeting-skudai-terrace-house) |
+| `2026-08-01` | [How to Avoid Hidden Renovation Costs](guides/avoid-hidden-renovation-costs.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/avoid-hidden-renovation-costs) |
+| `2026-08-01` | [2026 Interior Design Trends in Johor](guides/2026-interior-design-trends-johor.md) | [Read Full EN/ZH/MS Guide](https://hsdesign.biz/blog/2026-interior-design-trends-johor) |
 
 ## Complete Canonical Knowledge Base (53 Live Articles on `hsdesign.biz`)
 

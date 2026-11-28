@@ -1,6 +1,6 @@
 # 2026 Johor Bahru Bathroom Renovation Cost & Engineering Guide: Hacking, Waterproofing, Fall Slope & Timeline
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-25` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-25` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [2026 Johor Bahru Bathroom Renovation Cost & Engineering Guide: Hacking, Waterproofing, Fall Slope & Timeline](https://hsdesign.biz/blog/bathroom-renovation-cost-jb-2026)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 

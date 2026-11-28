@@ -1,6 +1,6 @@
 # Remote Control Renovation in JB: Why a One-Stop Interior Designer Wins
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-08-01` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-08-01` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [Remote Control Renovation in JB: Why a One-Stop Interior Designer Wins](https://hsdesign.biz/blog/one-stop-remote-renovation-jb)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 

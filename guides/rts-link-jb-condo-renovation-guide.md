@@ -1,6 +1,6 @@
 # RTS Link JB Condo Renovation Guide 2026: Defect Check, Remote Supervision & Budget
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-17` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-17` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [RTS Link JB Condo Renovation Guide 2026: Defect Check, Remote Supervision & Budget](https://hsdesign.biz/blog/rts-link-jb-condo-renovation-guide)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 

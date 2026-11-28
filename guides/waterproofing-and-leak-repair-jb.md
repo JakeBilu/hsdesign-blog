@@ -1,6 +1,6 @@
 # Waterproofing & Leak Repair in Johor Bahru
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-08-18` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-08-18` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [Waterproofing & Leak Repair in Johor Bahru](https://hsdesign.biz/blog/waterproofing-and-leak-repair-jb)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 

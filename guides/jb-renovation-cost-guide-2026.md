@@ -1,6 +1,6 @@
 # JB Renovation Cost Guide 2026: Real Prices After the Increase
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-17` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-17` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [JB Renovation Cost Guide 2026: Real Prices After the Increase](https://hsdesign.biz/blog/jb-renovation-cost-guide-2026)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 

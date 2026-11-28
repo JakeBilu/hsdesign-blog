@@ -1,6 +1,6 @@
 # Sintered Stone vs Quartz in Malaysia (2026): Heat, Stain, Cracking & JB Price Guide
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-22` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-22` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [Sintered Stone vs Quartz in Malaysia (2026): Heat, Stain, Cracking & JB Price Guide](https://hsdesign.biz/blog/sintered-stone-vs-quartz-malaysia)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 

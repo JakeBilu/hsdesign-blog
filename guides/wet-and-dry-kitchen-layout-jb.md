@@ -1,6 +1,6 @@
 # Wet and Dry Kitchen Layout Guide in Johor Bahru (2026): Wok Exhaust, Island Sizing & Aluminum vs Plywood
 
-> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-19` (Index updated `2026-11-26`)  
+> **Engineering Brief & Technical Summary** · Published / Synced: `2026-11-19` (Index updated `2026-11-28`)  
 > **Canonical Full Trilingual Guide (EN / ZH / MS)**: [Wet and Dry Kitchen Layout Guide in Johor Bahru (2026): Wok Exhaust, Island Sizing & Aluminum vs Plywood](https://hsdesign.biz/blog/wet-and-dry-kitchen-layout-jb)  
 > **Publisher**: [HS Design (HEALTH SPACE DESIGN)](https://hsdesign.biz/) · `CIDB Grade G2 (0120261123-JH180551 · B04/CE21/M15)` · SSM `202603001610 (PG0581660-U)` · `JIDA Member 2024` · Johor Bahru, Malaysia
 
