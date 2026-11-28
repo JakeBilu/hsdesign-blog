@@ -6,6 +6,9 @@ on:
     paths-ignore:
       - 'README.md'
       - 'guides/**'
+      - '_config.yml'
+      - 'sitemap.xml'
+      - 'robots.txt'
   workflow_dispatch:
 
 jobs:
